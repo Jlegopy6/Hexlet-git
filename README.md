@@ -1,2 +1,1 @@
-Hello
-GG
+Hello, Hexlet! How are you?
